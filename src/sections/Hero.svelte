@@ -4,11 +4,11 @@
 </script>
 
 <section class="flex flex-col items-center">
-  <div class="text-center bg-white text-[#37f2b4] my-8">
+  <div class="text-center bg-white text-black my-8">
     <h2 class="font-bold uppercase text-2xl italic">Smart Art</h2>
   </div>
   <div class="bg-gray-100 w-full">
-    <h1 class="font-bold text-center text-[50px] mt-40">
+    <h1 class="font-bold text-center text-4xl md:text-[50px] mt-40">
       Durch Lernen wachsen Wissen <br /> und
       <span class=" text-[#37f2b4]">Möglichkeiten.</span>
     </h1>
@@ -16,18 +16,20 @@
       🚀Englisch - Schwedisch - Webentwicklung🚀
     </p>
 
-    <div class="flex flex-row max-w-5xl mx-auto items-center mt-20">
+    <div
+      class="flex flex-col max-w-5xl mx-auto items-center mt-20 lg:text-left lg:flex-row"
+    >
       <div
-        class="image p-8 bg-white rounded-xl font-bold shadow-[#37f2b4] shadow"
+        class="image p-8 bg-white rounded-xl font-bold shadow-[#37f2b4] shadow mx-8"
       >
         <img src={computerGirl} alt="" />
       </div>
-      <div class="ml-28 flex flex-col max-w-md">
+      <div class="lg:ml-28 flex flex-col max-w-sm mt-20 mx-8 lg:max-w-md">
         <h2 class="font-bold text-2xl">Über Mich</h2>
         <p class="mt-4 font-medium">
-          Hallo, ich bin Sabrina, eine 16-jährige Sprachbegeisterte und vollzeit
-          Frontend Webentwicklerin aus Deutschland. Ich komme aus Schweden und
-          beherrsche fließend Schwedisch und Englisch. Jetzt möchte ich meine
+          Hallo, ich bin Sabrina, eine Sprachbegeisterte und vollzeit Frontend
+          Webentwicklerin aus Deutschland. Ich komme aus Schweden und beherrsche
+          fließend Schwedisch und Englisch. Jetzt möchte ich meine
           Sprachkenntnisse sowie mein Wissen in Webentwicklung mit dir teilen.<br
           /> <br /> Als engagierte Webentwicklerin habe ich meine Leidenschaft zum
           Beruf gemacht. Ich freue mich darauf, dich durch die aufregende Welt der
@@ -39,9 +41,9 @@
     </div>
 
     <div class="mt-96 text-center flex flex-col items-center mb-32">
-      <p class="font-medium -mt-10">Scroll nach unten</p>
+      <p class="font-medium -mt-10 hidden lg:block">Scroll nach unten</p>
       <svg
-        class="text-[#37f2b4]"
+        class="text-[#37f2b4] hidden lg:block"
         xmlns="http://www.w3.org/2000/svg"
         width="40"
         height="50"
