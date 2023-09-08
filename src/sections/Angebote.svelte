@@ -22,7 +22,7 @@
           <br /> • Motiviert und glücklich
         </p>
         <span class="mb-12 font-bold text-3xl"
-          >15€ <br />
+          >20€ <br />
           <span class="text-sm font-medium text-gray-400">pro Stunde</span
           ></span
         >
@@ -43,7 +43,7 @@
           • Selbstbewusst im Englischunterrich
         </p>
         <span class="mb-12 font-bold text-3xl"
-          >20€ <br />
+          >25€ <br />
           <span class="text-sm font-medium text-gray-400">pro Stunde</span
           ></span
         >
@@ -109,7 +109,7 @@
           • Problemlösung und <br /> kritisches Denken
         </p>
         <span class="mb-12 font-bold text-3xl"
-          >25€ <br />
+          >49€ <br />
           <span class="text-sm font-medium text-gray-400">pro Stunde</span
           ></span
         >
@@ -132,7 +132,7 @@
           • Portfolio und viele <br /> andere Projekte bauen.
         </p>
         <span class="mb-12 font-bold text-3xl"
-          >25€ <br />
+          >49€ <br />
           <span class="text-sm font-medium text-gray-400">pro Stunde</span
           ></span
         >
