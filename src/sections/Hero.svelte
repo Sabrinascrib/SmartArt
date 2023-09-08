@@ -37,7 +37,7 @@
       >
     </div>
   </div>
-  <div class="bg-gray-100 w-full h-[1300px] lg:h-full">
+  <div class="bg-gray-100 w-full h-[1400px] lg:h-full">
     <h1
       class="font-bold text-center text-4xl md:text-[50px] leading-normal mt-40"
     >
