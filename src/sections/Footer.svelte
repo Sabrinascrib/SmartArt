@@ -4,6 +4,6 @@
   <a
     href="https://wa.me/4915754896070"
     class="font-medium underline text-2xl mt-2 duration-100 hover:text-[#37f2b4]"
-    >+49 157 548 960 70</a
+    >0157 548 960 70</a
   >
 </div>

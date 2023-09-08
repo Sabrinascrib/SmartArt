@@ -6,11 +6,15 @@
 
 <section>
   <h1 class="text-center font-bold text-4xl mt-96 uppercase">Meine Angebote</h1>
-  <img class="w-10 mb-20 mx-auto mt-40" src={UnitedKingdom} alt="" />
+  <img
+    class="w-10 mb-12 lg:mb-20 mx-auto mt-20 lg:mt-40"
+    src={UnitedKingdom}
+    alt=""
+  />
   <div class="flex flex-wrap max-w-[1700px] justify-between mx-auto">
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-50 sm:w-96 w-[350px] min-wh-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">Englisch</h2>
         <h3 class="font-bold text-gray-500 mb-12">3te - 4te Klasse</h3>
@@ -19,7 +23,7 @@
           • gemeinsam für Klassenarbeiten lernen <br />
           • bessere Noten sind garantiert. <br /> • Vorbereitung für die nächste
           Stufe
-          <br /> • Motiviert und glücklich
+          <br /> • Motiviert und glücklich arbeiten
         </p>
         <span class="mb-12 font-bold text-3xl"
           >20€ <br />
@@ -30,7 +34,7 @@
     </div>
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-[350px] min-wh-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">Englisch</h2>
         <h3 class="font-bold text-gray-500 mb-12">5-7 klasse</h3>
@@ -38,8 +42,7 @@
           • Hilfe bei Hausaufgaben <br />
           • gemeinsam für Klassenarbeiten lernen <br />
           • bessere Noten sind garantiert. <br /> • Vorbereitung für die nächste
-          Stufe
-          <br /> • Motiviert und glücklich <br />
+          Stufe<br />
           • Selbstbewusst im Englischunterrich
         </p>
         <span class="mb-12 font-bold text-3xl"
@@ -51,7 +54,7 @@
     </div>
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-[350px] min-wh-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">Englisch</h2>
         <h3 class="font-bold text-gray-500 mb-12">Erwachsene</h3>
@@ -69,11 +72,11 @@
       </div>
     </div>
   </div>
-  <img class="w-10 mb-20 mx-auto mt-96" src={Sweden} alt="" />
+  <img class="w-10 mb-12 lg:mb-20 mx-auto mt-20 lg:mt-96" src={Sweden} alt="" />
   <div class="flex flex-wrap max-w-[1700px] justify-between mx-auto">
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-[350px] min-wh-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">Schwedish</h2>
         <h3 class="font-bold text-gray-500 mb-12">Alle Altersgruppen</h3>
@@ -91,16 +94,20 @@
       </div>
     </div>
   </div>
-  <img class="w-10 mb-20 mx-auto mt-96" src={Programming} alt="" />
+  <img
+    class="w-10 mb-12 lg:mb-20 mx-auto mt-20 lg:mt-96"
+    src={Programming}
+    alt=""
+  />
   <div class="flex flex-wrap max-w-[1700px] justify-between mx-auto">
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-[350px] min-h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">
           Frontend <br /> Entwicklung
         </h2>
-        <h3 class="font-bold text-gray-500 mb-12">5-7 klasse</h3>
+        <h3 class="font-bold text-gray-500 mb-12">5-15 Jahre</h3>
         <p class="mb-12 text-left">
           • HTML <br />
           • CSS <br />
@@ -109,7 +116,7 @@
           • Problemlösung und <br /> kritisches Denken
         </p>
         <span class="mb-12 font-bold text-3xl"
-          >49€ <br />
+          >40€ <br />
           <span class="text-sm font-medium text-gray-400">pro Stunde</span
           ></span
         >
@@ -117,12 +124,12 @@
     </div>
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-[350px] min-h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
         <h2 class="text-3xl font-bold uppercase mb-4">
           Frontend <br /> Entwicklung
         </h2>
-        <h3 class="font-bold text-gray-500 mb-12">5-7 klasse</h3>
+        <h3 class="font-bold text-gray-500 mb-12">Erwachene</h3>
         <p class="mb-12 text-left">
           • HTML <br />
           • CSS <br />

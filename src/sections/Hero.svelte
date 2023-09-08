@@ -19,10 +19,10 @@
     >
     <h2 class="font-bold uppercase text-2xl italic mx-auto">Smart Art</h2>
     <div
-      class="flex flex-row items-center mx-auto lg:mx-0 duration-100 hover:text-[#37f2b4]"
+      class="lg:flex flex-row items-center mx-auto lg:mx-0 duration-100 hover:text-[#37f2b4] hidden lg:block"
     >
       <svg
-        class="hidden lg:block"
+        class=""
         xmlns="http://www.w3.org/2000/svg"
         width="25"
         height="25"
@@ -34,14 +34,22 @@
       >
       <a
         href="https://wa.me/4915754896070"
-        class="mt-4 lg:mt-0 text-sm lg:text-lg font-medium lg:ml-4 duration-100 underline lg:no-underline"
-        >+49 157 548 960 70</a
+        class="mt-4 lg:mt-0 text-sm lg:text-lg font-medium lg:ml-4 duration-100 no-underline"
+        >0157 548 960 70</a
       >
     </div>
   </div>
   <div class="bg-gray-100 w-full h-[1400px] lg:h-full">
+    <div class="block lg:hidden flex flex-row justify-center mt-28 lg:mt-0">
+      <p class="font-bold mr-1">Whatsapp:</p>
+      <a
+        href="https://wa.me/4915754896070"
+        class="text-md lg:text-lg font-medium lg:ml-4 duration-100 underline hover:text-[#37f2b4] lg:no-underline"
+        >0157 548 960 70</a
+      >
+    </div>
     <h1
-      class="font-bold text-center text-4xl md:text-[50px] leading-normal mt-40"
+      class="font-bold text-center text-4xl md:text-[50px] leading-normal mt-14 lg:mt-40"
     >
       Durch Lernen wachsen Wissen <br /> und
       <span class=" text-[#37f2b4]">Möglichkeiten.</span>
