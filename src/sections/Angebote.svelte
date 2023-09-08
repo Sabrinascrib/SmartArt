@@ -95,9 +95,11 @@
   <div class="flex flex-wrap max-w-[1700px] justify-between mx-auto">
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
-        <h2 class="text-3xl font-bold uppercase mb-4">Englisch</h2>
+        <h2 class="text-3xl font-bold uppercase mb-4">
+          Frontend <br /> Entwicklung
+        </h2>
         <h3 class="font-bold text-gray-500 mb-12">5-7 klasse</h3>
         <p class="mb-12 text-left">
           • HTML <br />
@@ -115,9 +117,11 @@
     </div>
     <div class="mx-auto">
       <div
-        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[500px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
+        class="Angebot bg-gray-50 w-78 sm:w-96 min-h-[500px] lg:h-[540px] rounded-xl p-12 text-center my-20 mx-8 lg:m-20"
       >
-        <h2 class="text-3xl font-bold uppercase mb-4">Englisch</h2>
+        <h2 class="text-3xl font-bold uppercase mb-4">
+          Frontend <br /> Entwicklung
+        </h2>
         <h3 class="font-bold text-gray-500 mb-12">5-7 klasse</h3>
         <p class="mb-12 text-left">
           • HTML <br />
