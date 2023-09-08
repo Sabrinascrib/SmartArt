@@ -18,7 +18,9 @@
       /></svg
     >
     <h2 class="font-bold uppercase text-2xl italic mx-auto">Smart Art</h2>
-    <div class="flex flex-row items-center mx-auto lg:mx-0">
+    <div
+      class="flex flex-row items-center mx-auto lg:mx-0 duration-100 hover:text-[#37f2b4]"
+    >
       <svg
         class="hidden lg:block"
         xmlns="http://www.w3.org/2000/svg"
@@ -32,7 +34,7 @@
       >
       <a
         href="https://wa.me/4915754896070"
-        class="mt-4 lg:mt-0 text-sm lg:text-lg font-medium lg:ml-4 underline lg:no-underline"
+        class="mt-4 lg:mt-0 text-sm lg:text-lg font-medium lg:ml-4 duration-100 underline lg:no-underline"
         >+49 157 548 960 70</a
       >
     </div>
